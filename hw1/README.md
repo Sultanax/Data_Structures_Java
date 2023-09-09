@@ -1,5 +1,4 @@
-This is the first homework of the course.
-GCD.java is the source code for 
+This is the first homework of the course. I developed a program to find the greatest common factor for any two integer parameters.
 
 Topics learned:
 - Recursion
